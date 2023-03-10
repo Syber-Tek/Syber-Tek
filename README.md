@@ -1,4 +1,4 @@
-[![MasterHead]( img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h1 align="center">Hi 👋, I'm Syber-Tek</h1>
 <h3 align="center">I am a proud AI developer, Web developer, Python, Software, 3D design etc.</h3>
