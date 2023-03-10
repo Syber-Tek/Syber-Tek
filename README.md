@@ -1,10 +1,10 @@
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="MasterHead" width="100%" height="248px">
 
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <br>
 <h1 align="center">Hi 👋, I'm Syber-Tek</h1>
 <h3 align="center">I am a proud AI developer, Web developer, Python, Software, 3D design etc.</h3>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syber-tek&label=Profile%20views&color=0e75b6&style=flat" alt="syber-tek" /> </p>
