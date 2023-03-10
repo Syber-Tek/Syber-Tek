@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <head><a href="https://www.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_4102879.htm#query=programming%20background&position=8&from_view=search&track=ais"></a></head>
 <h1 align="center">Hi 👋, I'm Syber-Tek</h1>
 <h3 align="center">I am a proud AI developer, Web developer, Python, Software, 3D design etc.</h3>
