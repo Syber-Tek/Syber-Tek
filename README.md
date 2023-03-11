@@ -5,11 +5,13 @@
 <h3 align="center">I am a proud AI developer, Web developer, Python, Software, 3D design etc.</h3>
 
 
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true" alt="syber-tek" /> </p>
 
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true" alt="syber-tek" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syber-tek&label=Profile%20views&color=0e75b6&style=flat" alt="syber-tek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syber-tek" alt="syber-tek" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syber-tek&no-bg=true" alt="syber-tek"></a> </p>
 
 - 🔭 I’m currently working on **AI**
 
