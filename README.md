@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate with **Microsoft**
 
-- 💬 Ask me about **Python, Html and css, react, flask,c++ etc.**
+- 💬 Ask me about **Python, Html and css, flask,c++ etc.**
 
 - 📫 How to reach me **dellpc788@gmail.com**
 
