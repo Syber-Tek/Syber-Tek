@@ -20,6 +20,12 @@
 
 - ⚡ Fun fact **I'm very Funny**
 
+- 👨‍💻 All of my projects are available at https://github.com/syber-tek/
+
+- 🤝 I’m looking for help with React and lavarel
+
+- 🌱 I’m currently learning React and Lavarel
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/syber tek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syber tek" height="30" width="40" /></a>
