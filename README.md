@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Syber-Tek</h1>
 <h3 align="center">I am a proud AI developer, Web developer, Python, Software, 3D design, Front and backend developer from Ghana.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syber-tek&label=Profile%20views&color=0e75b6&style=flat" alt="syber-tek" /> </p>
+<br>
 
 
 
