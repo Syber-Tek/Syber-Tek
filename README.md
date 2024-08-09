@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syber-tek&label=Profile%20views&color=0e75b6&style=flat" alt="syber-tek" /> </p>
 
 
-<img src="https://camo.githubusercontent.com/ed541e5b80b192ae0041f7be748e9d1bf34ab999b87003fbf2abbe8cf4efb454/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d63797068612d696f" alt="syber-tek" data-canonical-src="https://github-profile-trophy.vercel.app/?username=syber-tek" style="max-width: 100%;">
+
 
 
 
@@ -37,6 +37,3 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syber-tek&show_icons=true&locale=en" alt="syber-tek" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syber-tek&" alt="syber-tek" /></p>
