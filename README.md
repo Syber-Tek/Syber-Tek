@@ -34,7 +34,7 @@
 
 - 🧑🏽‍💻 Innovating & solving Problems
 - 🎧 Music
-- 📷 Photography
+- 🛼 Skating
 - 🌱 Learning new tech
 
 ---
