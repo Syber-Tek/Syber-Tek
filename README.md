@@ -21,10 +21,10 @@
 ## 🛠️ Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,flask,html,css,tailwind,bootstrap,git,github,figma,wordpress,arduino,flask" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,flask,html,css,php,tailwind,bootstrap,git,github,figma,wordpress,arduino,flask" />
 </p>
 
-- **Languages:** JavaScript, TypeScript, Python, Flask, Arduino(C++)
+- **Languages:** JavaScript, TypeScript, Php, Python, Flask, Arduino(C++)
 - **Frontend:** React, Next.js, HTML5, CSS3, Tailwind, Bootstrap
 - **Backend:** Node.js, Express, REST APIs
 - **DevOps:** GitHub Actions
