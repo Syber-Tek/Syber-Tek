@@ -43,16 +43,19 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
+
   <!-- Contribution calendar (green dots) -->
-  ![GitHub Contribution Chart](https://ghchart.rshah.org/syber-tek)
+  <img src="https://ghchart.rshah.org/syber-tek" alt="GitHub Contribution Chart" />
 
-  <!-- Other stats you already had -->
-  <br/>
+  <br/><br/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=syber-tek&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=syber-tek&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syber-tek&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=syber-tek&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syber-tek&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+
+</p>
 
 ---
 
