@@ -1,74 +1,66 @@
-<!-- Modern GitHub Profile -->
+<!-- My Profile-->
 
-<h1 align="center">👋 Hi, I'm Nartey</h1>
+<h1 align="center">Hi, I'm Nartey 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=42F5E3&center=true&vCenter=true&width=550&lines=Computer+Engineer;Full-Stack+Developer;Open-Source+Enthusiast;Tech+Lover+💻" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=460&lines=Computer+Engineer;Open+Source+Enthusiast;Tech+Lover+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-## ⚡ About Me
+## 🧑‍💻 About Me
 
-- Computer Engineer  
-- Passionate about high-performance systems, automation & open-source  
-- I break things. Then I fix them better.  
-- And yes… the private repos are plenty 😂  
-- God is my strength in all things 🙏  
+- **Profession:** Computer Engineer  
+- **Location:** 🌍 Earth  
+- **Passionate about:** Building robust systems, automation, open-source  
+- And yes… many private repositories 😂  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tech Stack
 
- <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,flask,php,html,css,tailwind,bootstrap,git,github,figma,arduino" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,python,flask,html,css,php,tailwind,bootstrap,git,github,figma,wordpress,arduino" />
 </p>
 
-**Core Skills:**  
-- **Frontend:** React, Next.js, Tailwind, Bootstrap  
+- **Languages:** JavaScript, PHP, Python, Arduino (C++)  
+- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind, Bootstrap  
 - **Backend:** Node.js, Express, REST APIs  
-- **Embedded:** Arduino (C++)  
-- **Other:** GitHub Actions, Photoshop, Figma  
+- **DevOps:** GitHub Actions  
+- **Design:** Figma, Photoshop  
 
 ---
 
-## 🎯 What I Enjoy
+## 🎯 Hobbies
 
-- Building smart solutions  
-- Exploring new technologies  
-- Listening to music while coding  
-- Skating & designing  
-- Growing daily — spiritually, mentally, technically  
+- 🧑🏽‍💻 Solving real-world problems  
+- 🎧 Listening to music  
+- 🛼 Skating  
+- 🌱 Learning new tech daily  
 
 ---
 
-## 📊 GitHub Stats & Activity (Modern Layout)
+## 📊 GitHub Stats & Activity
 
-### 🟩 Contribution Calendar  
+<!-- Modern Contribution Calendar -->
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/syber-tek" />
+  <img src="https://github-contributions.vercel.app/api/v1/syber-tek" alt="Modern Contribution Calendar" />
 </p>
 
-
-### 📈 Stats  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=syber-tek&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=syber-tek&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🌐 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syber-tek&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syber-tek&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=syber-tek&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syber-tek&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:dellpc788@gmail.com"><img src="https://img.shields.io/badge/Email-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/nartey-kofi-ackam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/sybertekgh/"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:dellpc788@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nartey-kofi-ackam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/sybertekgh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://snapchat.com/add/syber-tek"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"></a>
   <a href="https://wa.me/0207276991"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
@@ -76,5 +68,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syber-tek&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Syber-Tek&style=for-the-badge&color=grey" alt="Profile Views" />
 </p>
