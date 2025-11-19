@@ -42,10 +42,6 @@
 
 ## 📊 GitHub Stats & Activity
 
-<!-- Modern Contribution Calendar -->
-<p align="center">
-  <img src="https://github-contributions.vercel.app/syber-tek.svg" alt="GitHub Contribution Calendar" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syber-tek&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
