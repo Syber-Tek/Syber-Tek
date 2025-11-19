@@ -44,7 +44,7 @@
 
 <!-- Modern Contribution Calendar -->
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/syber-tek" alt="Modern Contribution Calendar" />
+  <img src="https://github-contributions.vercel.app/syber-tek.svg" alt="GitHub Contribution Calendar" />
 </p>
 
 <p align="center">
