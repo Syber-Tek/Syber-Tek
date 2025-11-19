@@ -46,8 +46,9 @@
 
 ### 🟩 Contribution Calendar  
 <p align="center">
-  <img src="https://ghchart.rshah.org/42F56C/syber-tek" alt="Contribution Chart" />
+  <img src="https://github-contributions.vercel.app/api/v1/syber-tek" />
 </p>
+
 
 ### 📈 Stats  
 <p align="center">
