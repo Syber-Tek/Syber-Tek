@@ -11,7 +11,6 @@
 ## 🧑‍💻 About Me
 
 - **Profession:** Computer Engineer  
-- **Location:** 🌍 Earth  
 - **Passionate about:** Building robust systems, automation, open-source  
 - And yes… many private repositories 😂  
 
@@ -20,11 +19,11 @@
 ## 🛠️ Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,python,flask,html,css,php,tailwind,bootstrap,git,github,figma,wordpress,arduino" />
+  <img src="https://skillicons.dev/icons?i=js,react,reactnative,nextjs,nodejs,python,flask,html,css,php,tailwind,git,github,figma,wordpress,arduino,typscript" />
 </p>
 
 - **Languages:** JavaScript, PHP, Python, Arduino (C++)  
-- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind, Bootstrap  
+- **Frontend:** React, Next.js, HTML5, CSS3, Tailwind
 - **Backend:** Node.js, Express, REST APIs  
 - **DevOps:** GitHub Actions  
 - **Design:** Figma, Photoshop  
