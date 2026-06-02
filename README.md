@@ -19,7 +19,7 @@
 ## 🛠️ Skills & Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,python,flask,html,css,php,tailwind,git,github,figma,wordpress,arduino,typescript,dart,flutter,react_native" />
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,python,flask,html,css,php,tailwind,git,github,figma,wordpress,arduino,typescript,dart,flutter,supabase,androidstudio,cpp,c,cloudflare,firebase,postgres,vercel,vite,vscode" />
 </p>
 
 - **Languages:** JavaScript, PHP, Python, Arduino (C++), Dart(Flutter)
