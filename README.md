@@ -51,6 +51,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=syber-tek&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/syber-tek/syber-tek/snake-output/snake.svg" alt="Snake animation" />
+
 ---
 
 ## 📫 Connect with Me
