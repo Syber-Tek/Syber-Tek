@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Nartey 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=460&lines=Computer+Engineer;Open+Source+Enthusiast;Tech+Lover+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineer;Open+Source+Enthusiast;Tech+Lover" alt="Typing SVG" />
 </p>
 
 ---
