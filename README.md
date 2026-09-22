@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Nartey Kofi Ackam (Syber-Tek) 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Engineer+%7C+Full-Stack+Developer;Open+Source+Enthusiast;Building+Robust+Systems+%26+Automation+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Engineer+%7C+Full-Stack+Developer;Open+Source+Enthusiast;Building+Robust+Systems+and+Automation" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,8 +35,7 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syber-tek&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syber-tek&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syber-tek&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
