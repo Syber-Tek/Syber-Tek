@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Syber-Tek -->
 
-<h1 align="center">Hi, I'm Nartey Kofi Ackam (Syber-Tek) 👋</h1>
+<h1 align="center">Hi, I'm Syber-Tek 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Engineer+%7C+Full-Stack+Developer;Open+Source+Enthusiast;Building+Robust+Systems+and+Automation" alt="Typing SVG" />
