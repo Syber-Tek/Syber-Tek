@@ -7,15 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Syber-Tek">
-    <img src="https://img.shields.io/github/followers/Syber-Tek?label=Followers&style=for-the-badge&color=0078D4&logo=github" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Syber-Tek/Syber-Tek/stargazers">
-    <img src="https://img.shields.io/github/stars/Syber-Tek/Syber-Tek?style=for-the-badge&color=FFB900&logo=github" alt="Repository Stars" />
-  </a>
-  <a href="#-license">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Engineer;Open+Source+Enthusiast;Tech+Lover" alt="Typing SVG" />
 </p>
 
 ---
